@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+// import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import CreatNote from "./CreatNote";
 import Header from "./Header";

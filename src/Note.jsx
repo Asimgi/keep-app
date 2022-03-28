@@ -13,7 +13,7 @@ const deletNote=()=>{
           <h3>{props.title}</h3>
           <br />
           <p>{props.content}</p>
-          <button className="b-btn" onClick={deletNote}> - </button>
+          <button className=" d-btn" onClick={deletNote}> - </button>
         </div>
         {/* <div className="inner-note">
           <h3>title</h3>

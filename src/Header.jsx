@@ -4,7 +4,7 @@ const Header=()=>{
     return(
         <>
          <header>
-             <h3>Keep App Clone</h3>
+             <h2>Keep App Clone</h2>
          </header>
         </>
     );
